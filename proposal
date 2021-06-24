@@ -1,13 +1,12 @@
 Overview:
-For this project, I will create an artwork recommendation engine. I hope to have a final product that allows users to perform a search
-using terms like "acrylic" or "surrealism" and receive results (results will be specific paintings from ArtFinder.com) based on the search terms.
+For this project, I will create a netflix recommendation engine. I hope to have a final product that allows users to perform a search
+using a title of a movie or show, and receive recommendations for similar content. 
 
 Data:
-- I will scrape data from ArtFinder.com -- specifically: hashtags, descriptions, sizes, and prices for individual paintings
+- https://www.kaggle.com/shivamb/netflix-shows
 
 Tools:
 - I will probably use NLTK, Spacy, tf-idf, k-means ...the rest is TBD
 
-MVP:
-- an MVP should be at least a visualization that is able to describe, in some way, similarities between various works of art? Some sort of foundation from which 
-the actual recommendation system can be built
+MVP: 
+- A basic recommendation system with *at least* vaguely relevant search results
