@@ -1,4 +1,4 @@
 # Metis Module 5: NLP & Unsupervised ML
 
-For this project, I am creating a Netflix movie/show recommendation engine. 
-Currently in progress - will update by Saturday, June 26
+For this project, I created a Netflix recommendation engine using NLP and unsupervised learning techniques. 
+The engine takes the name of a Netflix movie or show, and recommends ten relevant movies and shows. 
